@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrackChildren</string>
+
+    <string name="msg_sample">ส่งรหัสยืนยันอีกครั้ง</string>
+    <string name="msg_linkable">here</string>
+    <string name="yeah">Yeah!</string>
+</resources>
